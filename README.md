@@ -15,7 +15,6 @@ To download the nu-A2D dataset, please refers to: https://drive.google.com/drive
 
 Download all the files and then extract them into the folder of `project_root/data/trainval/`
 
-
 ## Usage
 * Clone this repo and prepare the environment.
 * Download the dataset, create the foler `data/trainval/` in the project root, and release the dataset into the `/trainval/`.
@@ -26,10 +25,17 @@ Download all the files and then extract them into the folder of `project_root/da
 ## Citation
 If you found this code or dataset are useful in your research, please consider citing
 ```
-...
+@ARTICLE{feng2024multimodalxad,
+  author={Yuchao Feng and Zhen Feng and Wei Hua and Yuxiang Sun},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Multimodal-XAD: Explainable Autonomous Driving Based on Multimodal Environment Descriptions}, 
+  year={2024},
+  volume={25},
+  number={12},
+  pages={19469-19481},
+  doi={10.1109/TITS.2024.3467175}}
 ```
+
 If you have any questions, pleas feel free to contact us!
 
 Contact: yx.sun@cityu.edu.hk; yuchao.feng@connect.polyu.hk
-
-Website: https://yuxiangsun.github.io/
